@@ -11,7 +11,3 @@ libraryDependencies ++= Seq(
 )
 
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
-version := "1.0"
-
-scalaVersion := "2.11.8"
-    
